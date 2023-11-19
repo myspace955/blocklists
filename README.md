@@ -1,2 +1,2 @@
-# blocklist
-Blocklists for pfsense or pihole
+# blocklists
+Blocklists for pfsense or pi-hole
