@@ -1,0 +1,6 @@
+#TVNow
+#TV Now erlauben
+@@||tvnow.de^
+@@||rtl.de^
+@@||px1.vtrtl.de^
+@@||self-service.player.tvnow.de^
