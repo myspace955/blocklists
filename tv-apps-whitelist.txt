@@ -3,3 +3,6 @@
 @@||rtl.de^
 @@||px1.vtrtl.de^
 @@||self-service.player.tvnow.de^
+#WOW TV
+@@||wowtv.de^
+@@||wowtv.de.data.adobedc.net^
