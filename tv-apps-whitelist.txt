@@ -8,3 +8,4 @@
 @@||wowtv.de.data.adobedc.net^
 #Joyn
 @@||img.joyn.de^
+@@||entitlements-service-alb.prd.platform.s.joyn.de^
