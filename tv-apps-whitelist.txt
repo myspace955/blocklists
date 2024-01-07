@@ -6,3 +6,5 @@
 #WOW TV
 @@||wowtv.de^
 @@||wowtv.de.data.adobedc.net^
+#Joyn
+@@||img.joyn.de^
