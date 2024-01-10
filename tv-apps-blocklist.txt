@@ -1,0 +1,4 @@
+#Joyn
+||ad-client.mediafe-prd.s.joyn.de^
+||dec-svc.abs-prd.s.joyn.de^
+||heartbeats-service-alb.prd.platform.s.joyn.de^
