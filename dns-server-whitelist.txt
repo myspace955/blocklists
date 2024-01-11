@@ -1,4 +1,5 @@
 #DNS-Server
+@@||ovpn.com^$important
 @@||dnsforge.de^$important
 @@||cloudflare-dns.com^$important
 @@||dns.cloudflare.com^$important
