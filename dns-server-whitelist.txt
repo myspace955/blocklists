@@ -1,4 +1,9 @@
 #DNS-Server
 @@||ovpn.com^$important
 @@||mullvad.net^$important
+@@||dns.mullvad.net
+@@||adblock.dns.mullvad.net
+@@||base.dns.mullvad.net
+@@||extended.dns.mullvad.net
+@@||all.dns.mullvad.net
 @@||dnsforge.de^$important
