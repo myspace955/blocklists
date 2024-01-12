@@ -23,7 +23,6 @@
 @@||elb.us-west-1.amazonaws.com^$important
 @@||nflximg.com^$important
 @@||nflximg.net^$important
-@@||netflix.com^$important
 @@||nflxext.com^$important
 @@||nflxso.net^$important
 @@||nflxvideo.net^$important
