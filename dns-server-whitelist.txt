@@ -1,14 +1,4 @@
 #DNS-Server
 @@||ovpn.com^$important
+@@||mullvad.net^$important
 @@||dnsforge.de^$important
-@@||cloudflare-dns.com^$important
-@@||dns.cloudflare.com^$important
-@@||cloudflare-gateway.com^$important
-@@||dns.quad9.net^$important
-@@||dns-nosec.quad9.net^$important
-@@||dns10.quad9.net^$important
-@@||dns11.quad9.net^$important
-@@||dns12.quad9.net^$important
-@@||dns13.quad9.net^$important
-@@||dns9.quad9.net^$important
-@@||2.dnscrypt-cert.quad9.net^$important
