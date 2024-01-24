@@ -1,17 +1,18 @@
 #TVNow
-@@||tvnow.de^
-@@||rtl.de^
-@@||px1.vtrtl.de^
-@@||self-service.player.tvnow.de^
+@@||tvnow.de^$important
+@@||rtl.de^$important
+@@||px1.vtrtl.de^$important
+@@||self-service.player.tvnow.de^$important
 
 #WOW TV
-@@||wowtv.de^
-@@||wowtv.de.data.adobedc.net^
+@@||wowtv.de^$important
+@@||wowtv.de.data.adobedc.net^$important
 
 #Joyn
-@@||joyn.de^
-@@||img.joyn.de^
+@@||joyn.de^$important
+@@||img.joyn.de^$important
 @@||entitlements-service-alb.prd.platform.s.joyn.de^
+@@||vendor-list.consensu.org^$important
 
 #Netflix
 @@||api-global.netflix.com^$important
