@@ -1,14 +1,22 @@
 #DNS-Server
+#OVPN
 @@||ovpn.com^$important
+#Mullvad
 @@||mullvad.net^$important
-@@||dns.mullvad.net
+@@||dns.mullvad.net^$important
 @@||adblock.dns.mullvad.net
 @@||base.dns.mullvad.net
 @@||extended.dns.mullvad.net
 @@||all.dns.mullvad.net
+#DNSforge
 @@||dnsforge.de^$important
-@@||dns.msftncsi.com
-
+@@||dns.msftncsi.com^$important
+#Adguard
+@@||dns.adguard.com^$important
+@@||dns.adguard-dns.com^$important
+@@||unfiltered.adguard-dns.com^$important
+@@||family.adguard-dns.com^$important
+@@||d.adguard-dns.com^$important
 #ntp Zeitserver
-@@||0.de.pool.ntp.org
-@@||1.de.pool.ntp.org
+@@||0.de.pool.ntp.org^$important
+@@||1.de.pool.ntp.org^$important
