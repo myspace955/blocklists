@@ -11,8 +11,9 @@
 #Joyn
 @@||joyn.de^$important
 @@||img.joyn.de^$important
-@@||entitlements-service-alb.prd.platform.s.joyn.de^
+@@||entitlements-service-alb.prd.platform.s.joyn.de^$important
 @@||vendor-list.consensu.org^$important
+@@||api.usercentrics.eu^$important
 
 #Netflix
 @@||api-global.netflix.com^$important
