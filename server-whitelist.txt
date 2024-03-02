@@ -22,5 +22,11 @@
 @@||0.de.pool.ntp.org^$important
 @@||1.de.pool.ntp.org^$important
 
-#THALIA
+#THALIA Buchladen
 @@||images.thalia.media^$important
+@@||click.news.thalia.de^$important
+@@||thalia-bf09.kxcdn.com^$important
+@@||sentry.thalia.de^$important
+@@||www.thalia.de^$important
+@@||assets.thalia.media^$important
+@@||app.thalia.de^$important
