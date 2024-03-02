@@ -102,3 +102,4 @@
 
 #Antenna Pod
 @@||gpodder.net^$important
+@@||podigee.io^$important
