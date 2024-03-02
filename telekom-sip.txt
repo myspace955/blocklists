@@ -1,4 +1,0 @@
-#Telekom SIP erlauben
-@@||t-ipnet.de^
-@@||stun.t-online.de^
-@@||tel.t-online.de^
