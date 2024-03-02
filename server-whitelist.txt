@@ -99,3 +99,6 @@
 @@||pings.conviva.com^$important
 @@||vod-l3c-eu-north-2.media.dssott.com.c.footprint.net^$important
 @@||zee.cws.conviva.com^$important
+
+#Antenna Pod
+@@||gpodder.net^$important
