@@ -17,6 +17,10 @@
 @@||unfiltered.adguard-dns.com^$important
 @@||family.adguard-dns.com^$important
 @@||d.adguard-dns.com^$important
+
 #ntp Zeitserver
 @@||0.de.pool.ntp.org^$important
 @@||1.de.pool.ntp.org^$important
+
+#THALIA
+@@||images.thalia.media^$important
