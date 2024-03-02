@@ -22,6 +22,11 @@
 @@||0.de.pool.ntp.org^$important
 @@||1.de.pool.ntp.org^$important
 
+#Telekom SIP Server für IP-Telefonie
+@@||t-ipnet.de^$important
+@@||stun.t-online.de^$important
+@@||tel.t-online.de^$important
+
 #THALIA Buchladen
 @@||images.thalia.media^$important
 @@||click.news.thalia.de^$important
