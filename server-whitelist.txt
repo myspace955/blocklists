@@ -111,3 +111,6 @@
 @@||consent.youtube.com^$important
 @@||i.ytimg.com^$important
 @@||googlevideo.com^$important
+
+Fortnite
+@@||epicgames.com^$important
