@@ -112,5 +112,8 @@
 @@||i.ytimg.com^$important
 @@||googlevideo.com^$important
 
-Fortnite
+#Fortnite
 @@||epicgames.com^$important
+
+#myDealz
+@@||mydealz.digidip.net^$important
