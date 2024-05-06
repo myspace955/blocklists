@@ -118,3 +118,4 @@
 #myDealz
 @@||mydealz.digidip.net^$important
 @@||redir.digidip.net^$important
+@@||digidip.net^$important
