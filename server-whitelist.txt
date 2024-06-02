@@ -4,10 +4,10 @@
 #Mullvad
 @@||mullvad.net^$important
 @@||dns.mullvad.net^$important
-@@||adblock.dns.mullvad.net
-@@||base.dns.mullvad.net
-@@||extended.dns.mullvad.net
-@@||all.dns.mullvad.net
+@@||adblock.dns.mullvad.net^$important
+@@||base.dns.mullvad.net^$important
+@@||extended.dns.mullvad.net^$important
+@@||all.dns.mullvad.net^$important
 #DNSforge
 @@||dnsforge.de^$important
 @@||dns.msftncsi.com^$important
