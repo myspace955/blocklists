@@ -17,6 +17,8 @@
 @@||unfiltered.adguard-dns.com^$important
 @@||family.adguard-dns.com^$important
 @@||d.adguard-dns.com^$important
+#Quad9
+@@||dns.qiad9.net^$important
 
 #ntp Zeitserver
 @@||0.de.pool.ntp.org^$important
