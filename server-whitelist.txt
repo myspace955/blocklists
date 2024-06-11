@@ -141,6 +141,7 @@
 @@||g2a.com^$important
 @@||stackcommerce.com^$important
 @@||stacksocial.com^$important
+@@||thalia.de^$important
 
 #Dienste-Server
 @@||onedrive.live.com^$important
