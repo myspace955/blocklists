@@ -121,3 +121,17 @@
 @@||mydealz.digidip.net^$important
 @@||redir.digidip.net^$important
 @@||digidip.net^$important
+
+#Nachrichten und Magazine
+@@||wiwo.de^$important^$important
+@@||n-tv.de^$important
+@@||watson.de^$important
+@@||brigitte.de^$important
+@@||t-online.de^$important
+@@||nationalgeographic.de^$important
+@@||tagesschau.de^$important
+@@||zeit.de^$important
+@@||t3n.de^$important
+@@||spektrum.de^$important
+@@||dw.com^$important
+@@||manager-magazin.de^$important
