@@ -198,3 +198,8 @@
 @@||skyapi.live.net^$important
 @@||livefilestore.com^$important
 @@||storage.msn.com^$important
+
+#Nachrichten
+@@||focus.de^$important
+@@||stern.de^$important
+@@||tagesschau.de^$important
