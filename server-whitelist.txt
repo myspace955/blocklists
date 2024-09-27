@@ -55,6 +55,9 @@
 @@||vendor-list.consensu.org^$important
 @@||api.usercentrics.eu^$important
 
+#Amazon Prime TV
+@@||api.eu-west-1.aiv-delivery.net^$important
+
 #Netflix
 @@||api-global.netflix.com^$important
 @@||appboot.netflix.com^$important
