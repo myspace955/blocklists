@@ -142,6 +142,7 @@
 @@||stackcommerce.com^$important
 @@||stacksocial.com^$important
 @@||thalia.de^$important
+@@||durex.de^$important
 
 #Dienste-Server
 @@||onedrive.live.com^$important
