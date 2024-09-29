@@ -139,7 +139,7 @@
 @@||dw.com^$important
 @@||manager-magazin.de^$important
 @@||mdr.de^$important
-@@||@@welt.de^$important
+@@||welt.de^$important
 
 #Shopping
 @@||g2a.com^$important
