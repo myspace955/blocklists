@@ -147,6 +147,8 @@
 @@||stacksocial.com^$important
 @@||thalia.de^$important
 @@||durex.de^$important
+@@||lastdecades.de^$important
+@@||lastdecades.com^$important
 
 #Dienste-Server
 @@||onedrive.live.com^$important
