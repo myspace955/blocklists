@@ -211,6 +211,7 @@
 @@||stern.de^$important
 @@||tagesschau.de^$important
 
-#Schule
+#Aliya
 @@||pmg-meine.de^$important
 @@||pmg-schmalkalden.de^$important
+@@||instagram.com^$important
