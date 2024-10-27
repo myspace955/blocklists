@@ -210,3 +210,7 @@
 @@||focus.de^$important
 @@||stern.de^$important
 @@||tagesschau.de^$important
+
+#Schule
+@@||pmg-meine.de^$important
+@@||pmg-schmalkalden.de^$important
