@@ -20,6 +20,10 @@
 #Quad9
 @@||dns.quad9.net^$important
 
+#Kuketz blog für NVIDIA Shield
+@@||captiveportal.kuketz.de^$important
+@@||kuketz.de^$important
+
 #ntp Zeitserver
 @@||0.de.pool.ntp.org^$important
 @@||1.de.pool.ntp.org^$important
