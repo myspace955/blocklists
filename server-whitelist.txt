@@ -154,7 +154,10 @@
 @@||pmg-meine.de^$important
 @@||presseportal.de^$important
 @@||karlsruhe-insider.de^$important
-
+@@||kino.de^$important
+@@||noz.de^$important
+@@||gamestar.de^$important
+@@||pcgameshardware.de^$important
 
 #Shopping
 @@||g2a.com^$important
