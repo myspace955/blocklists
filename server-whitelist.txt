@@ -58,6 +58,10 @@
 @@||entitlements-service-alb.prd.platform.s.joyn.de^$important
 @@||vendor-list.consensu.org^$important
 @@||api.usercentrics.eu^$important
+@@||script.ioam.de^$important
+@@||joyn.de^$important
+@@||usercentrics.eu^$important
+
 
 #Amazon Prime TV
 #@@||api.eu-west-1.aiv-delivery.net^$important
@@ -144,6 +148,13 @@
 @@||manager-magazin.de^$important
 @@||mdr.de^$important
 @@||welt.de^$important
+@@||data-4ede7e9c86.faz.net^$important
+@@||faz.net^$important
+@@||faz.met.vgwort.de^$important
+@@||pmg-meine.de^$important
+@@||presseportal.de^$important
+@@||karlsruhe-insider.de^$important
+
 
 #Shopping
 @@||g2a.com^$important
@@ -153,6 +164,9 @@
 @@||durex.de^$important
 @@||lastdecades.de^$important
 @@||lastdecades.com^$important
+@@||eis.de^$important
+@@||lotto24.de^$important
+@@||o2online.de^$important
 
 #Dienste-Server
 @@||onedrive.live.com^$important
