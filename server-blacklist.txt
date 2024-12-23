@@ -2,3 +2,6 @@
 ||abbo7pmaaaaaaaamhdrshsjlfhjgw.pop-iad-2.cf.dash.row.aiv-cdn.net^$important
 ||a185avoddashs3ww-a.akamaihd.net^$important
 ||unagi-na.amazon.com^$important
+
+#Netflix
+||logs.netflix.com^$important
