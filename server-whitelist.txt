@@ -144,6 +144,7 @@
 
 #Nachrichten und Magazine
 @@||wiwo.de^$important
+@@||ressources.wiwo.de^$important
 @@||n-tv.de^$important
 @@||watson.de^$important
 @@||brigitte.de^$important
