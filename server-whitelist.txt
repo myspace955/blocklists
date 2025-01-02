@@ -143,7 +143,7 @@
 @@||digidip.net^$important
 
 #Nachrichten und Magazine
-@@||wiwo.de^$important^$important
+@@||wiwo.de^$important
 @@||n-tv.de^$important
 @@||watson.de^$important
 @@||brigitte.de^$important
