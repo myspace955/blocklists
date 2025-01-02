@@ -22,6 +22,10 @@
 #Quad9
 @@||dns.quad9.net^$important
 
+#GitHub
+@@||github.com^$important
+@@||github.io^$important
+
 #Kuketz blog für NVIDIA Shield
 @@||captiveportal.kuketz.de^$important
 @@||kuketz.de^$important
