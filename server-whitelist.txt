@@ -25,6 +25,7 @@
 #GitHub
 @@||github.com^$important
 @@||github.io^$important
+@@||raw.githubusercontent.com^$important
 
 #Kuketz blog für NVIDIA Shield
 @@||captiveportal.kuketz.de^$important
@@ -164,6 +165,7 @@
 @@||noz.de^$important
 @@||gamestar.de^$important
 @@||pcgameshardware.de^$important
+@@||politpro.eu/de^$important
 
 #Shopping
 @@||g2a.com^$important
