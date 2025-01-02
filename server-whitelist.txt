@@ -8,6 +8,8 @@
 @@||base.dns.mullvad.net^$important
 @@||extended.dns.mullvad.net^$important
 @@||all.dns.mullvad.net^$important
+#Proton
+@@||vpn-api.proton.me^$important
 #DNSforge
 @@||dnsforge.de^$important
 @@||dns.msftncsi.com^$important
