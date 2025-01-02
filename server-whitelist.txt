@@ -167,6 +167,7 @@
 @@||pcgameshardware.de^$important
 @@||politpro.eu/de^$important
 @@||merkur.de^$important
+@@||fr.de^$important
 
 #Shopping
 @@||g2a.com^$important
