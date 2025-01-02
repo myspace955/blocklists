@@ -166,6 +166,7 @@
 @@||gamestar.de^$important
 @@||pcgameshardware.de^$important
 @@||politpro.eu/de^$important
+@@||merkur.de^$important
 
 #Shopping
 @@||g2a.com^$important
