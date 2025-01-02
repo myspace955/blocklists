@@ -45,7 +45,7 @@
 @@||click.news.thalia.de^$important
 @@||thalia-bf09.kxcdn.com^$important
 @@||sentry.thalia.de^$important
-@@||www.thalia.de^$important
+@@||thalia.de^$important
 @@||assets.thalia.media^$important
 @@||app.thalia.de^$important
 
@@ -127,7 +127,7 @@
 #Youtube
 @@||m.youtube.com^$important
 @@||restrictmoderate.youtube.com^$important
-@@||www.youtube.com^$important
+@@||youtube.com^$important
 @@||consent.youtube.com^$important
 @@||i.ytimg.com^$important
 @@||googlevideo.com^$important
