@@ -182,6 +182,7 @@
 @@||eis.de^$important
 @@||lotto24.de^$important
 @@||o2online.de^$important
+@@||apotheken-umschau.de^$important
 
 #Dienste-Server
 @@||onedrive.live.com^$important
