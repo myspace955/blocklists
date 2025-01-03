@@ -1,6 +1,7 @@
 #DNS-Server
 #OVPN
 @@||ovpn.com^$important
+@@||ovpn.to^$important
 #Mullvad
 @@||mullvad.net^$important
 @@||dns.mullvad.net^$important
@@ -9,9 +10,13 @@
 @@||extended.dns.mullvad.net^$important
 @@||all.dns.mullvad.net^$important
 @@||de-fra-dns-001.mullvad.net^$important
-
 #Proton
 @@||vpn-api.proton.me^$important
+@@||protonstatus.com^$important
+@@||protonvpn.ch^$important
+@@||protonvpn.com^$important
+@@||protonvpn.net^$important
+@@||getproton.me^$important
 #DNSforge
 @@||dnsforge.de^$important
 @@||dns.msftncsi.com^$important
