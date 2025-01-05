@@ -207,6 +207,8 @@
 @@||oisd.nl^$important
 @@||f-droid.org^$important
 @@||auroraoss.com^$important
+@@||malwarebytes.com^$important
+@@||support.malwarebytes.com^$important
 
 #Microsoft Onedrive
 @@||onedrive.com^$important
