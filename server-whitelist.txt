@@ -205,6 +205,8 @@
 @@||dap.thueringen.de^important
 @@||rog.asus.com^important
 @@||oisd.nl^$important
+@@||f-droid.org^$important
+@@||auroraoss.com^$important
 
 #Microsoft Onedrive
 @@||onedrive.com^$important
