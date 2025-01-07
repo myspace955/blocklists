@@ -19,6 +19,7 @@
 @@||getproton.me^$important
 #DNSforge
 @@||dnsforge.de^$important
+
 @@||dns.msftncsi.com^$important
 #Adguard
 @@||dns.adguard.com^$important
@@ -37,6 +38,10 @@
 #Kuketz blog für NVIDIA Shield
 @@||captiveportal.kuketz.de^$important
 @@||kuketz.de^$important
+
+#FH Schmalkalden
+@@||fh-schmalkalden.de^$important
+@@||qis.fh-schmalkalden.de^$important
 
 #ntp Zeitserver
 @@||0.de.pool.ntp.org^$important
