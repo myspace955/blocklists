@@ -21,8 +21,9 @@
 @@||dnsforge.de^$important
 @@||adminforge.de^$important
 
-
+#ASUS & Microsoft Internet Connection Test
 @@||dns.msftncsi.com^$important
+
 #Adguard
 @@||dns.adguard.com^$important
 @@||dns.adguard-dns.com^$important
