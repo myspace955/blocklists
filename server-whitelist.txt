@@ -44,6 +44,9 @@
 @@||qis.fh-schmalkalden.de^$important
 
 #ntp Zeitserver
+@@||ntp1.adminforge.de^$important
+@@||ntp2.adminforge.de^$important
+@@||ntp3.adminforge.de^$important
 @@||0.de.pool.ntp.org^$important
 @@||1.de.pool.ntp.org^$important
 
