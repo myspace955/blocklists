@@ -189,25 +189,30 @@
 @@||t-online.de^$important
 @@||tagesschau.de^$important
 @@||taz.de^$important
+@@||data-502d5cce76.taz.de^$important
 @@||watson.de^$important
 @@||Watson.ch^$important
 @@||waz.de^$important
 @@||welt.de^$important
 @@||wiwo.de^$important
 @@||zeit.de^$important
+@@||herzenssache365.de^$important
+@@||app.getresponse.com^$important
+
 
 #Shopping
+@@||apotheken-umschau.de^$important
+@@||eis.de^$important
+@@||durex.de^$important
 @@||g2a.com^$important
+@@||lotto24.de^$important
+@@||lastdecades.de^$important
+@@||lastdecades.com^$important
+@@||mediamarkt.de^$important
+@@||o2online.de^$important
 @@||stackcommerce.com^$important
 @@||stacksocial.com^$important
 @@||thalia.de^$important
-@@||durex.de^$important
-@@||lastdecades.de^$important
-@@||lastdecades.com^$important
-@@||eis.de^$important
-@@||lotto24.de^$important
-@@||o2online.de^$important
-@@||apotheken-umschau.de^$important
 
 #Dienste-Server
 @@||onedrive.live.com^$important
