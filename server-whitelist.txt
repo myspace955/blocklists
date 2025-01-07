@@ -185,8 +185,9 @@
 @@||ruhr24.de^$important
 @@||spektrum.de^$important
 @@||t3n.de^$important
-@@||tagesschau.de^$important
 @@||t-online.de^$important
+@@||tagesschau.de^$important
+@@||taz.de^$important
 @@||watson.de^$important
 @@||Watson.ch^$important
 @@||waz.de^$important
