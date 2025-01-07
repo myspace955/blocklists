@@ -19,6 +19,8 @@
 @@||getproton.me^$important
 #DNSforge
 @@||dnsforge.de^$important
+@@||adminforge.de^$important
+
 
 @@||dns.msftncsi.com^$important
 #Adguard
