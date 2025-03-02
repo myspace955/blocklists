@@ -213,6 +213,9 @@
 @@||stackcommerce.com^$important
 @@||stacksocial.com^$important
 @@||thalia.de^$important
+@@||victoriassecret.com^$important
+@@||de.victoriassecret.com^$important
+@@||myhermes.de^$important
 
 #Dienste-Server
 @@||onedrive.live.com^$important
@@ -283,3 +286,11 @@
 @@||pmg-meine.de^$important
 @@||pmg-schmalkalden.de^$important
 @@||instagram.com^$important
+@@||archiveofourown.org^$important
+
+#Michael
+@@||ci.hs-schmalkalden.de^$important
+@@||audio.podigee-cdn.net^$important
+#Adblocker Warnungen abstellen
+@@||adserver.adtech.advertising.com^
+@@||succeedscene.com^
