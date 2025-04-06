@@ -216,6 +216,8 @@
 @@||victoriassecret.com^$important
 @@||de.victoriassecret.com^$important
 @@||myhermes.de^$important
+@@||contentstore.triumph.com^
+@@||de.triumph.com^
 
 #Dienste-Server
 @@||onedrive.live.com^$important
