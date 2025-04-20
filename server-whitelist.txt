@@ -296,3 +296,19 @@
 #Adblocker Warnungen abstellen
 @@||adserver.adtech.advertising.com^
 @@||succeedscene.com^
+
+#https://github.com/celenityy/adguard-home-settings
+||adservice.google.*^$important
+||adsterra.com^$important
+||amplitude.com^$important
+||analytics.edgekey.net^$important
+||analytics.twitter.com^$important
+||app.adjust.*^$important
+||app.*.adjust.com^$important
+||app.appsflyer.com^$important
+||doubleclick.net^$important
+||googleadservices.com^$important
+||guce.advertising.com^$important
+||metric.gstatic.com^$important
+||mmstat.com^$important
+||statcounter.com^$important
