@@ -102,13 +102,13 @@
 ||mask.apple-dns.net^$important
 
 #Apple
-||iadsdk.apple.com^$important
-||metrics.icloud.com^$important
-||metrics.mzstatic.com^$important
-||api-adservices.apple.com^$important
-||books-analytics-events.apple.com^$important
-||weather-analytics-events.apple.com^$important
-||notes-analytics-events.apple.com^$important
+#||iadsdk.apple.com^$important
+#||metrics.icloud.com^$important
+#||metrics.mzstatic.com^$important
+#||api-adservices.apple.com^$important
+#||books-analytics-events.apple.com^$important
+#||weather-analytics-events.apple.com^$important
+#||notes-analytics-events.apple.com^$important
 
 #Amazon
 ||adtago.s3.amazonaws.com^$important
