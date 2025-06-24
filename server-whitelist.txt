@@ -289,6 +289,13 @@
 @@||pmg-schmalkalden.de^$important
 @@||instagram.com^$important
 @@||archiveofourown.org^$important
+#Disney Plus (Werbung)
+@@||global.edge.bamgrid.com^$important
+@@||search-api-disney.svcs.dssott.com^$important
+@@||prod-ripcut-delivery.disney-plus.net^$important
+@@||search-api-disney.bamgrid.com^$important
+@@||us.edge.bamgrid.com^$important
+@@||playback-certs.bamgrid.com^$important
 
 #Michael
 @@||ci.hs-schmalkalden.de^$important
