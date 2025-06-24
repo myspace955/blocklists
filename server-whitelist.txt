@@ -296,6 +296,9 @@
 #Adblocker Warnungen abstellen
 @@||adserver.adtech.advertising.com^$important
 @@||succeedscene.com^$important
+#Aktien
 @@||finanzen-zero.net^$important
 @@||aktien.guide^$important
 @@||aktienfinder.net^$important
+@@||aktien.guide^$important
+@@||xlence.com^$important
