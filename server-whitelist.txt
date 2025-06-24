@@ -297,3 +297,5 @@
 @@||adserver.adtech.advertising.com^$important
 @@||succeedscene.com^$important
 @@||finanzen-zero.net^$important
+@@||aktien.guide^$important
+@@||aktienfinder.net^$important
