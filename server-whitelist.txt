@@ -313,3 +313,4 @@ succeedscene.com^$important
 @@||notify.metatrader4.com^$important
 @@||push.metatrader4.com^$important
 @@||mt4push.metatrader4.com^$important
+@@||cloudflare-dns.com^$important
