@@ -311,8 +311,18 @@
 @@||aktien.guide^$important
 @@||aktienfinder.net^$important
 @@||aktien.guide^$important
+#Xlence Broker
 @@||xlence.com^$important
 @@||net.xlence.com^$important
+@@||trade.xlencebroker.com^$important
+@@||api.xlencebroker.com^$important
+@@||quotes.xlencebroker.com^$important
+@@||order.xlencebroker.com^$important
+#MetaTrader 4
+@@||mt4server.com^$important
+@@||mt4login.com^$important
+@@||quoteserver.com^$important
+@@||platform.mt4.com^$important
 @@||ecp.map.fastly.net^$important
 @@||content.finteza.com^$important
 @@||content.mql5.com^$important
@@ -324,4 +334,3 @@
 @@||notify.metatrader4.com^$important
 @@||push.metatrader4.com^$important
 @@||mt4push.metatrader4.com^$important
-@@||cloudflare-dns.com^$important
