@@ -318,6 +318,10 @@
 @@||api.xlencebroker.com^$important
 @@||quotes.xlencebroker.com^$important
 @@||order.xlencebroker.com^$important
+@@||metaquotes.net^$important
+@@||mt4.com^$important
+@@||xserver.com^$important
+
 #MetaTrader 4
 @@||mt4server.com^$important
 @@||mt4login.com^$important
