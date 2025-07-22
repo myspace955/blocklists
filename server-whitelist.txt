@@ -307,10 +307,20 @@
 
 #Aktien
 @@||finanzen-zero.net^$important
+@@||mein.finanzen-zero.net^$important
 @@||aktien.guide^$important
 @@||aktienfinder.net^$important
 @@||aktien.guide^$important
 @@||xlence.com^$important
+@@||net.xlence.com^$important
+@@||ecp.map.fastly.net^$important
+@@||content.finteza.com^$important
+@@||content.mql5.com^$important
+@@||de.eu.content.mql5.com^$important
+@@||mlq5.com^$important
+@@||msg1.mlq5.com^$important
+@@||download.metatrader.com^$important
+@@||de.eu.cdn.metatrader.com^$important
 @@||notify.metatrader4.com^$important
 @@||push.metatrader4.com^$important
 @@||mt4push.metatrader4.com^$important
