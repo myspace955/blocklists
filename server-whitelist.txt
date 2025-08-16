@@ -339,3 +339,9 @@
 @@||notify.metatrader4.com^$important
 @@||push.metatrader4.com^$important
 @@||mt4push.metatrader4.com^$important
+
+#Aliya Mega App erlauben
+@@||mcd270n310.karere.mega.nz^$important
+@@||g.api.mega.co.nz^$important
+@@||userstorage.mega.co.nz^$important
+@@||mega.nz^$important
