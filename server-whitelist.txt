@@ -137,6 +137,15 @@
 @@||pings.conviva.com^$important
 @@||vod-l3c-eu-north-2.media.dssott.com.c.footprint.net^$important
 @@||zee.cws.conviva.com^$important
+@@||js-agent.newrelic.com^$important
+@@||bamtech.sc.omtrdc.net^$important
+@@||sanalytics.disneyplus.com^$important
+@@||fkp.samsungcloudsolution.com^$important
+@@||disneyplus.com^$important
+@@||global.edge.bamgrid.com^$important
+@@||dpm.demdex.net^$important
+@@||disney-portal.my.onetrust.com^$important
+
 
 #Antenna Pod
 @@||gpodder.net^$important
